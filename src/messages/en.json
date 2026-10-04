@@ -1,0 +1,27 @@
+{
+  "Navigation": {
+    "home": "Home",
+    "services": "Services",
+    "blog": "Insights",
+    "contact": "Contact",
+    "language": "العربية",
+    "country": "Country"
+  },
+  "Home": {
+    "eyebrow": "Easy City",
+    "title": "Grow your sales and build your business online",
+    "description": "An integrated platform helping businesses and service providers reach new customers and manage their digital presence.",
+    "primaryCta": "Explore services",
+    "secondaryCta": "Talk to our team",
+    "audiencesTitle": "Solutions for your business",
+    "audiences": [
+      "Retail and commerce",
+      "Professional services",
+      "Delivery and shipping",
+      "Suppliers and partners"
+    ]
+  },
+  "Footer": {
+    "copyright": "© Easy City. All rights reserved."
+  }
+}
